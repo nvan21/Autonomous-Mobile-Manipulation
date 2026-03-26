@@ -58,6 +58,14 @@ The control pipeline was tested across multiple scenarios to validate transient 
 
 ---
 
+## Video Links
+
+The above video is for the best case scenario. Below are the video links for all three cases:
+
+* [Best case video](https://drive.google.com/file/d/13AmKaYoUzJ41hXvFNVyeSKssX_F0vnRq/view?usp=sharing)
+* [Overshoot case video](https://drive.google.com/file/d/1sCd94aVVWE_1Vc4gZzWzNzvgGZf7IMwj/view?usp=sharing)
+* [New task video](https://drive.google.com/file/d/1roTeHDwBO1cRcbqnK-L8p-u8iOgbBv8y/view?usp=sharing)
+
 ## Full Project Report
 
 For an in-depth analysis, comprehensive methodology, and a detailed discussion regarding manipulability factors and error convergence, please refer to the full project report included in this repository: 
