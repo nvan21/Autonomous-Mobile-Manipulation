@@ -1,6 +1,6 @@
-# MAE 204 Final Project: Mobile Manipulator Control Pipeline 
+# KUKA youBot Mobile Manipulator Control Pipeline 
 
-**Course:** MAE 204 - Robotics 
+**Course:** MAE 204 - Robotics   
 **Institution:** UC San Diego 
 
 ---
